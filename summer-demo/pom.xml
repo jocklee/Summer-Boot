@@ -20,26 +20,26 @@
     </properties>
 
     <dependencies>
-        <!--<dependency>-->
-        <!--<groupId>com.coco.whale</groupId>-->
-        <!--<artifactId>summer-browser</artifactId>-->
-        <!--<version>0.0.1-SNAPSHOT</version>-->
-        <!--</dependency>-->
         <dependency>
-            <groupId>com.coco.whale</groupId>
-            <artifactId>summer-app</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+        <groupId>com.coco.whale</groupId>
+        <artifactId>summer-browser</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
         </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.coco.whale</groupId>-->
+            <!--<artifactId>summer-app</artifactId>-->
+            <!--<version>0.0.1-SNAPSHOT</version>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-thymeleaf</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.springframework.boot</groupId>-->
+            <!--<artifactId>spring-boot-starter-thymeleaf</artifactId>-->
+        <!--</dependency>-->
     </dependencies>
 
     <build>
